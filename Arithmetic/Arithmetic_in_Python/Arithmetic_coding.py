@@ -29,10 +29,6 @@ print("(1+2-3)*2=",(1+2-3)*2)
  
  '''
 
-
-#One sentence no new lines
-print ("I dont like",end="")
-
 #To print 5 new lines
 print(('\n')*5)
 
