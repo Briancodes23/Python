@@ -25,9 +25,7 @@ print("(1+2-3)*2=",(1+2-3)*2)
 ** exponiential calculations two multiplication signs 
  // Floor division discards the remainder e.g 14.5 as a value will be changed to 14 excluding the .5
  
- Use brackets anytime you can, when working with arithmetic in any programming language
- 
- '''
+
 
 #To print 5 new lines
 print(('\n')*5)
